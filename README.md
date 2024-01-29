@@ -1,4 +1,4 @@
-<h1>Embedded Space Invaders</h1>h1>
+<h1>Embedded Space Invaders</h1>
 This simple space invaders clone represents how embedded systems can run simple arcade games.
 
 <h2>Components</h2>
